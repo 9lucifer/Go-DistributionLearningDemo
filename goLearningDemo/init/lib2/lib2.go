@@ -3,7 +3,7 @@ package lib2
 import "fmt"
 
 //lib2包提供的接口
-func lib2Test()  {
+func Lib2Test()  {
 	
 }
 

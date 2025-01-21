@@ -4,8 +4,8 @@ package lib1
 import "fmt"
 
 //lib1包提供的接口
-func lib1Test()  {
-	
+func Lib1Test()  {
+	// 必须要首字母大写
 }
 
 func init()  {
