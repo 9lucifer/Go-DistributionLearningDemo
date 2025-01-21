@@ -5,7 +5,7 @@ import (
 	"goLearningDemo/init/lib1"
 	"goLearningDemo/init/lib2"
 )
-
+// init
 func main(){
 	lib1.lib1Test()
 	lib2.lib2Test()
